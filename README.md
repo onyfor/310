@@ -1,6 +1,6 @@
 # 310
-<head>  
-    <title>310美編成員</title>
+<head>  # 310的回憶
+ 
 </head>
 <body>
 <u><CENTER>
